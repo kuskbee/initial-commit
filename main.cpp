@@ -9,6 +9,7 @@ using namespace std;
 // int => CPU, 컴파일러 마다 크기가 다르다.
 // 0 ~ 255, 8bit -> 7bit -128 ~ 0 ~ 127
 // bit -> 8bit -> byte eascii 
+// add comment
 int main()
 {
 	char Letter = 'A';
